@@ -3,6 +3,9 @@ import {View} from 'react-native';
 
 import {Home, Details} from './screens';
 
+// Test for api endpoints
+import * as api from './services/api';
+
 /*
   Module created for tests
 */
